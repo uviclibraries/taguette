@@ -1,4 +1,4 @@
-# Taguette Workshop: Qualitative Coding & Analysis
+# Taguette: Qualitative Coding & Analysis Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/taguette/
