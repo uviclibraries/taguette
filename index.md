@@ -21,7 +21,7 @@ This workshop is primarily hands-on practice with Taguette in order to learn to 
 
 1. Watch, [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o) (9 min)
 2. Watch, [How to Code a Document and Create Themes](https://www.youtube.com/watch?v=sHv3RzKWNcQ) (13 min)
-3. **Optional**: Review, [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/) slide deck
+3. **Optional**: Review, [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/) slide deck (5 min)
 
 
 ## Why Taguette? 
