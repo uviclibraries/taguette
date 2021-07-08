@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup 
+title: Pre-Workshp Activities 
 nav_order: 1
 ---
 # Taguette: Qualitative Coding & Analysis Workshop
