@@ -3,7 +3,7 @@ layout: default
 title: Setup 
 nav_order: 1
 ---
-# Qualitative Coding & Analysis with Taguette 
+# Taguette: Qualitative Coding & Analysis 
 
 ## Learning objectives
 
