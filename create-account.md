@@ -10,4 +10,14 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 1. **Click on the following link**: https://www.taguette.org/
 
-<img style="margin-left:40px; margin-bottom:50px" src="images/data-2.png"/>
+2. Next click on the Try it out Taguette on our server button.
+
+3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the Register Now button.
+
+4. Fill out the registration page with your information and click Register.
+
+5. After creating your account, you will see a welcome page. 
+
+6. Congratulations! You’ve successfully created a Taguette Account and are now ready to Create a Project and do some qualitative coding on an interview document!
+
+NEXT: You can start to **code your documents and conduct a basic analysis of your coding with Taguette in the next activity**.
