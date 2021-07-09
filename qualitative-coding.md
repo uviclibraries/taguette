@@ -16,7 +16,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.
 ![Name your project](/images/taguette-coding-3.gif)
 
-### Upload Documents to Taguette
+**Upload Documents to Taguette**
 
 {:start="3"}
 3. Next, either download this zip file of [3 sample documents](https://web.uvic.ca/~rmccue/taguette-docs.zip) (you’ll need to unzip the downloaded file), or locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
