@@ -12,7 +12,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 ### 1. Click on the following link: [Taguette website](https://www.taguette.org) ###
 
-#### 2. Next click on the _Try out Taguette on our server_ button. ####
+### 2. Next click on the _Try out Taguette on our server_ button. ###
 
 ### 3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the _Register Now_ button. ###
 
