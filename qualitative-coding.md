@@ -21,12 +21,12 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 4. Upload your documents by clicking on Add a document in the left of the app or webpage. NOTE: you have to add each document individually, and give each one a unique name.
 - As you add documents they will show up in the Documents tab.
-![Name your project](/images/taguette-coding-6.gif)
+![Add documents to your project](/images/taguette-coding-4.gif)
 
-5. **Code Your Documents with Tags**: Read through your research materials and find potential themes. For example, you may notice the word health a lot in your text, or maybe you will see the speaker talk a lot about education, perhaps poverty or even happiness. So, those could be potential codes you may want to create.  If you are still unsure on how to come up with codes, no problem, you can take a few minutes to watch this video.
+5. **Code Your Documents with Tags**: Read through your research materials and find potential themes. For example, you may notice the word health a lot in your text, or maybe you will see the speaker talk a lot about education, perhaps poverty or even happiness. So, those could be potential codes you may want to create.  If you are still unsure on how to come up with codes, no problem, you can take a few minutes to [watch this video](https://www.youtube.com/watch?v=eT-EDgwRvRU).
 
 6. When reading through your data-set on Taguette, start defining codes that relate to the passages you are reading and create a tag, which is named after the code you want to call that specific part of the text. To do so, you can select the passage you wish and click on NEW HIGHLIGHT
-        
+![Name your project](/images/taguette-coding-5.gif)
 
 
 Create a new tag (code)
