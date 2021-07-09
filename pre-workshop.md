@@ -14,4 +14,4 @@ This workshop is primarily hands-on practice with Taguette in order to learn to 
 
 - [ ] **Optional**: Review, [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/){:target="_blank"} slide deck (5 min)
 
-[NEXT STEP: Create a Taguette Accounts](create-account.html){: .btn .btn-blue }
+[NEXT STEP: Create a Taguette Account](create-account.html){: .btn .btn-blue }
