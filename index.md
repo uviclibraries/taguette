@@ -30,3 +30,4 @@ At the end of this workshop, you will be able to:
 5. Created a basic analysis of coded data in Excel
  
 NEXT STEP: **[Pre-Workshop Activities](pre-workshop.html)**
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
