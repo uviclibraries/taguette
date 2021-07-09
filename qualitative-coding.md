@@ -40,7 +40,9 @@ If you have any questions or get stuck as you work through this in-class exercis
 10. Once you have your research files and your codes, **click on the documents tab**, and you will be able to see the content of your document.
 
 11. Now, you can keep moving forward by highlighting more passages on your text related to your themes/codes by selecting the passages you want and left-clicking on them, as you do it, a pop-up showing [NEW HIGHLIGHT] will appear, you can click on tag and select one of the tags you want to attach the passage you just selected.
+![Create a new tag while tagging a passage](/images/taguette-coding-10.gif)
 
 12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, click on the left column of your Taguette interface
+![See a list of passages for individual tags](/images/taguette-coding-9.png)
 
 **NEXT STEP**: After you have done that to all your research materials you can export your work back to your computer in the next workshop activity.
