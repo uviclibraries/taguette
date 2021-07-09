@@ -8,7 +8,14 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. {:toc}
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ### 1. Click on the following link: [Taguette website](https://www.taguette.org) ###
 
@@ -22,4 +29,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 ### 6. Congratulations! You’ve successfully created a Taguette Account and are now ready to Create a Project and do some qualitative coding on an interview document! ###
 
-NEXT: You can start to **code your documents and conduct a basic analysis of your coding with Taguette in the next activity**.
+**NEXT STEP**: You can start to code your documents and conduct a basic analysis of your coding with Taguette in the next activity.
