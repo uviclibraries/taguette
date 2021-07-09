@@ -6,9 +6,9 @@ nav_order: 1
 # Taguette: Qualitative Coding & Analysis Workshop
 
 ## Why Taguette? 
-Taguette is a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+[Taguette](https://taguette.org/) is a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than other popular commercial software packages. 
+This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software). 
 
 This is not an endorsement of Taguette: there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes limitations that users should be aware of:
 
@@ -26,3 +26,4 @@ At the end of this workshop, you will be able to:
 4. Will have research materials with codes and have exported them
 5. Created a basic analysis of coded data in Excel
  
+NEXT: **[Pre-Workshop Activities](pre-workshop.html)**
