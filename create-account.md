@@ -17,15 +17,16 @@ If you have any questions or get stuck as you work through this in-class exercis
 {:toc}
 </details>
 
-### 1. Click on the following link: [Taguette website](https://www.taguette.org) ###
+1. Click on the following link: [Taguette website](https://www.taguette.org)
 ![Click on the Try it out Taguette on our server button](/images/taguette-account-1.png)
 
-### 2. Next click on the _Try out Taguette on our server_ button. ###
-![Click on the Register Now button](/images/taguette-account-1.png)
+2. Next click on the _Try out Taguette on our server_ button.
+![Click on the Register Now button](/images/taguette-account-2.png)
 
-### 3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the _Register Now_ button. ###
+3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the _Register Now_ button.
+![Click Register](/images/taguette-account-3.png)
 
-### 4. Fill out the registration page with your information and click _Register_.
+4. Fill out the registration page with your information and click _Register_.
 
 5. After creating your account, you will see a welcome page.
 
