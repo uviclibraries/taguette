@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating a Taguette Account
-nav_order: 4
+nav_order: 3
 parent: Workshop Activities
 ---
 # Creating a Taguette Account & Logging On
