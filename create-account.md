@@ -10,11 +10,11 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 {:toc}
 
-## 1. Click on the following link**: https://www.taguette.org ##
+### 1. Click on the following link**: https://www.taguette.org ###
 
-## 2. Next click on the Try it out Taguette on our server button ##
+### 2. Next click on the Try it out Taguette on our server button ###
 
-## 3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the Register Now button ##
+### 3. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the Register Now button ###
 
 4. Fill out the registration page with your information and click Register.
 
