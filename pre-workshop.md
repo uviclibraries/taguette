@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acknowledgements
+title: Pre-Workshp Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
