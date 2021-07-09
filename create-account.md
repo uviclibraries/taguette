@@ -8,8 +8,6 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-{:toc}
-
 1. **Click on the following link**: https://www.taguette.org/
 
 2. Next click on the Try it out Taguette on our server button.
