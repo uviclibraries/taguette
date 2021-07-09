@@ -8,15 +8,6 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 1. Click on the following link: [Taguette website](https://www.taguette.org)
 ![Click on the Try it out Taguette on our server button](/images/taguette-account-1.png)
 
