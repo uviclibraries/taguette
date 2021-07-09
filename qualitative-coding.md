@@ -16,7 +16,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.
 ![Name your project](/images/taguette-coding-3.gif)
 
-## Upload Documents to Taguette
+    ## Upload Documents to Taguette
 
 {:start="3"}
 3. Next, either download this zip file of [3 sample documents](https://web.uvic.ca/~rmccue/taguette-docs.zip) (you’ll need to unzip the downloaded file), or locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
@@ -25,7 +25,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 4. Upload your documents by clicking on Add a document in the left of the app or webpage. NOTE: you have to add each document individually, and give each one a unique name.
 - As you add documents they will show up in the Documents tab.
 
-## Code Your Documents with Tags
+    ## Code Your Documents with Tags
 
 {:start="5"}
 5. Read through your research materials and find potential themes. For example, you may notice the word health a lot in your text, or maybe you will see the speaker talk a lot about education, perhaps poverty or even happiness. So, those could be potential codes you may want to create.  If you are still unsure on how to come up with codes, no problem, you can take a few minutes to watch this video.
