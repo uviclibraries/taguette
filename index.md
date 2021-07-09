@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taguette Workshop Introduction 
+title: Workshop Introduction 
 nav_order: 1
 ---
 <img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;">
