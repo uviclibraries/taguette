@@ -20,6 +20,6 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 ### 5. After creating your account, you will see a welcome page. ###
 
-#### 6. Congratulations! You’ve successfully created a Taguette Account and are now ready to Create a Project and do some qualitative coding on an interview document! ####
+### 6. Congratulations! You’ve successfully created a Taguette Account and are now ready to Create a Project and do some qualitative coding on an interview document! ###
 
 NEXT: You can start to **code your documents and conduct a basic analysis of your coding with Taguette in the next activity**.
