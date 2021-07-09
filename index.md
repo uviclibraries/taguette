@@ -17,7 +17,7 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 
 - Only text can be coded. For example videos and images can not be coded.
 - Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. Other external tools for more advanced analysis (like Excel) are covered in this workshop.
+- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
 
 ## Learning objectives
 
