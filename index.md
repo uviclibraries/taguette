@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taguette: Qualitative Coding & Analysis Workshop 
+title: Introduction 
 nav_order: 1
 ---
 <img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;">
