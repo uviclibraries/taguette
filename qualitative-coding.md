@@ -45,4 +45,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, click on the left column of your Taguette interface
 ![See a list of passages for individual tags](/images/taguette-coding-10.png)
 
-**NEXT STEP**: After you have done that to all your research materials you can export your work back to your computer in the next workshop activity.
+[NEXT STEP: Basic Analysis with Taguette](basic-analysis.html){: .btn .btn-blue }
