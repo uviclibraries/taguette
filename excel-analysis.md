@@ -14,15 +14,12 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 2. Next click on the **See all highlight**s button to view summaries of all of the passages that you coded.
 ![See all highlights](/images/taguette-excel-1.png)
 
-3. Exporting your Passages in Preparation for Writing Up Your Research
+3. **Exporting your Passages in Preparation for Writing Up Your Research**: Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
+  - Click on the Highlights tab, and then the See all highlights button.
+  - Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
+![Export this view](/images/taguette-excel-2.png)
 
-
-Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
-Click on the Highlights tab, and then the See all highlights button.
-Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
-
-
-Pivot Tables
+4. Pivot Tables
 
 
 Open up the Excel file from downloads
