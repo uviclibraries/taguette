@@ -24,3 +24,10 @@ If you have any questions or get stuck as you work through this in-class exercis
 5. Exporting individual Codes & Passages - Very similar to exporting all your codes, except that you first select the individual code that you would like to export.
   1. Click on the Highlights tab, and then select the tag you would like to export.
   1. Look to the right of the screen and click on the Export this view button, and then select the export format of your choice. Many people select the DOCX format at this point.
+![Export this view](/images/taguette-basic-4.png)
+
+6. Great job! You’ve exported coded passages in a format that you can use to further analyse and synthesize into your research project
+7. **OPTIONAL**: If  you ‘d like to experiment with analysing your codes on your own in Excel, click on the Project info tab, and then select Export codebook drop down button, and then click on the Excel option. An Excel version of your codebook will be downloaded to your computer for you to analyse.
+![Export data to Excel](/images/taguette-basic-5.png)
+
+- NEXT STEP: you might want to do a more detailed analysis of your results in Microsoft Excel (coming soon).
