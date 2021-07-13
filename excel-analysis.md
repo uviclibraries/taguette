@@ -8,34 +8,18 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-**Creating a Project**
+In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=GvqVeZPoEvs){:target="_blank"}.
 
-If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+1. Log in to Taguette where you see your documents and select the **highlights** tab.
+2. Next click on the **See all highlight**s button to view summaries of all of the passages that you coded.
+![See all highlights](/images/taguette-excel-1.png)
 
-In addition, if you think you would find it helpful, here is a bonus video tutorial for this activity: https://www.youtube.com/watch?v=GvqVeZPoEvs
-
-
-Log in to Taguette where you see your documents and select the highlights tab.
-Next click on the See all highlights button to view summaries of all of the passages that you coded.
-
-
-Exporting your Passages in Preparation for Writing Up Your Research
+3. Exporting your Passages in Preparation for Writing Up Your Research
 
 
 Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
 Click on the Highlights tab, and then the See all highlights button.
 Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
-
-
-
-
-
-
-
-
-
-
-
 
 
 Pivot Tables
@@ -62,13 +46,9 @@ Under the pivot table fields (on the right hand side),  select the document and 
 Drag the document checkbox to the rows area (this shows how many tags are in each document.)
 
 
-
-
-
-
-
 In the rows area, drag the tag below the document checkboxes
 
-
 Great job!
+
+[NEXT STEP: Basic Analysis with Taguette](basic-analysis.html){: .btn .btn-blue }
 
