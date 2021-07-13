@@ -30,4 +30,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 7. **OPTIONAL**: If  you ‘d like to experiment with analysing your codes on your own in Excel, click on the Project info tab, and then select Export codebook drop down button, and then click on the Excel option. An Excel version of your codebook will be downloaded to your computer for you to analyse.
 ![Export data to Excel](/images/taguette-basic-5.png)
 
-- NEXT STEP: you might want to do a more detailed analysis of your results in Microsoft Excel (coming soon).
+[NEXT STEP: Intermediate Analysis with Excel](excel-analysis.html){: .btn .btn-blue }
