@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Analysis
+title: Excel Analysis
 nav_order: 6
 parent: Workshop Activities
 ---
