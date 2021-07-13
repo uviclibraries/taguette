@@ -20,3 +20,5 @@ If you have any questions or get stuck as you work through this in-class exercis
 Exporting your Passages in Preparation for Writing Up Your Research
 
 4. Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
+  a. Click on the **Highlights** tab, and then the **See all highlights** button.
+  b. Look to the right of the screen and click on the **Export this view** button, and then select the **export format of your choice**. Many people select the DOCX format at this point.
