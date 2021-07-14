@@ -14,3 +14,5 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 ### Earn an Informal Credential for Taguette
 
 - Criteria for the Taguette Badge here...
+
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
