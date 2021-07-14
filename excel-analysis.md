@@ -47,5 +47,5 @@ In the rows area, drag the tag below the document checkboxes
 
 Great job!
 
-[NEXT STEP: Basic Analysis with Taguette](basic-analysis.html){: .btn .btn-blue }
+[NEXT STEP: Analysis with Word Clouds](cloud-analysis.html){: .btn .btn-blue }
 
