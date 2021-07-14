@@ -9,9 +9,6 @@ This workshop is primarily hands-on practice with Taguette in order to learn to 
 - Watch, [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o){:target="_blank"} (9 min):
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Watch, [How to Code a Document and Create Themes](https://www.youtube.com/watch?v=sHv3RzKWNcQ){:target="_blank"} (13 min):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHv3RzKWNcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - **Optional**: If you are new to qualitative coding, you might want to review this helpful [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
