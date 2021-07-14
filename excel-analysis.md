@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=GvqVeZPoEvs){:target="_blank"}.
+In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=GvqVeZPoEvs){:target="_blank"} as a suplement to the steps below.
 
 1. Log in to Taguette where you see your documents and select the **highlights** tab.
 2. Next click on the **See all highlight**s button to view summaries of all of the passages that you coded.
@@ -19,18 +19,15 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
   - Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
 ![Export this view](/images/taguette-excel-2.png)
 
-4. Pivot Tables
+4. **Pivot Tables**: Open up the Excel file you just downloaded to your computer.
 
+5. Select the document and tag columns and highlight all the data
+![Hilight all the data](/images/taguette-excel-3.png)
 
-Open up the Excel file from downloads
+6. Next, click on the insert tab and select pivot table. (Use the default settings and click ok)
+![Create a pivot table](/images/taguette-excel-4.png)
 
-Select the document and tag columns and highlight all the data
-
-Next, click on the insert tab and select pivot table. (Use the default settings and click ok)
-
-
-
-Under the pivot table fields (on the right hand side),  select the tab checkbox and drag the tab checkbox to the values area.
+7. Under the pivot table fields (on the right hand side),  select the tab checkbox and drag the tab checkbox to the values area.
 
 
 Select the original sheet on the bottom of the excel spreadsheet
