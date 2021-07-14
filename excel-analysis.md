@@ -19,28 +19,33 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
   - Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
 ![Export this view](/images/taguette-excel-2.png)
 
-4. **Pivot Tables**: Open up the Excel file you just downloaded to your computer.
+4. **Pivot Table to Count Tags**: Open up the Excel file you just downloaded to your computer.
 
-5. Select the **document**, **tag**, and **content** columns and highlight all the data
+5. Select the **document**, **tag**, and **content** columns and highlight all the data.
 ![Highlight all the data](/images/taguette-excel-3.png)
 
-6. Next, click on the insert tab and select pivot table. (Use the default settings and click ok)
+6. Next, click on the insert tab and select pivot table. (Use the default settings and click ok).
 ![Create a pivot table](/images/taguette-excel-5.png)
 
 7. Under the pivot table fields (on the right hand side), select the **tag checkbox** and **drag the tag checkbox to the values area**.
 ![Edit first pivot table](/images/taguette-excel-6.png)
 
-Select the original sheet on the bottom of the excel spreadsheet
+8. **Pivot Table to Count Tags in Each Document**: Select the original sheet (probably called "highlights") on the bottom of the excel spreadsheet.
 
+9. Select the **document**, **tag**, and **content** columns and highlight all the data.
+![Highlight all the data](/images/taguette-excel-3.png)
 
-Repeat step 5-6
+10. Next, click on the insert tab and select pivot table. (Use the default settings and click ok).
+![Create a pivot table](/images/taguette-excel-5.png)
 
-Under the pivot table fields (on the right hand side),  select the document and tag checkboxes
+11. Under the pivot table fields (on the right hand side),  select the **document** and **tag** checkboxes.
+![Select documents & tag](/images/taguette-excel-7.png)
 
-Drag the document checkbox to the rows area (this shows how many tags are in each document.)
+12. Drag the **document checkbox** to the **Rows area** (this shows how many tags are in each document).
+![Drag document to Rows area](/images/taguette-excel-8.png)
 
-
-In the rows area, drag the tag below the document checkboxes
+13. In the **Rows area**, **drag the tag label below the document label**.
+![Drag tab label below document label](/images/taguette-excel-9.png)
 
 Great job!
 
