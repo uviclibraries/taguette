@@ -7,6 +7,10 @@ nav_order: 1
 
 # Taguette: Qualitative Coding & Analysis Workshop
 
+- Pre-workshop activities: 20 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 50-70 min
+
 ## Why Taguette? 
 
 [Taguette](https://taguette.org/) is a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
