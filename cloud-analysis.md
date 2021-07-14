@@ -13,4 +13,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 Great job!
 
-[NEXT STEP: Basic Analysis with Taguette](cloud-analysis.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
