@@ -47,7 +47,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 13. In the **Rows area**, **drag the tag label below the document label**.
 ![Drag tab label below document label](/images/taguette-excel-9.png)
 
-Great job!
+You should now have some summary quantitative data that might be useful to include with your more qualitative data that you have created in Taguette. Great job!
 
 [NEXT STEP: Analysis with Word Clouds](cloud-analysis.html){: .btn .btn-blue }
 
