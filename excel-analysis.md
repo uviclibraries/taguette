@@ -27,8 +27,8 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 6. Next, click on the insert tab and select pivot table. (Use the default settings and click ok)
 ![Create a pivot table](/images/taguette-excel-5.png)
 
-7. Under the pivot table fields (on the right hand side),  select the tab checkbox and drag the tab checkbox to the values area.
-
+7. Under the pivot table fields (on the right hand side), select the **tag checkbox** and **drag the tag checkbox to the values area**.
+![Edit first pivot table](/images/taguette-excel-6.png)
 
 Select the original sheet on the bottom of the excel spreadsheet
 
