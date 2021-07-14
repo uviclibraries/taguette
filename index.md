@@ -7,9 +7,9 @@ nav_order: 1
 
 # Taguette: Qualitative Coding & Analysis Workshop
 
-- Pre-class activities: 20 min 
-- Face-to-face presentation: 10 min
-- Face-to-face activities: 50-70 min
+- Pre-workshop activities: 20 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 50-70 min
 
 ## Why Taguette? 
 
