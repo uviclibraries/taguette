@@ -12,13 +12,14 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=k4P-VNo7ozU){:target="_blank"} as a suplement to the steps below.
 
-1. Create a free account at the [Word Art](https://wordart.com/) website. 
+1. Create a free account at the [**Word Art**](https://wordart.com/) website. 
 
-2. Log in to Taguette where you see your documents and select the highlights tab.
-Next click on the See all highlights button to view summaries of all of the passages that you coded.
+2. Log in to Taguette where you see your documents and select the **highlights tab**.
 
+3. Next click on the **See all highlights** button to view summaries of all of the passages that you coded.
+![See all highlights](/images/taguette-cloud-01.png)
 
-Exporting your Passages in Preparation for Writing Up Your Research
+4. Exporting your Passages in Preparation for Writing Up Your Research
 
 
 Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
