@@ -4,7 +4,7 @@ title: Word Cloud Analysis
 nav_order: 7
 parent: Workshop Activities
 ---
-<img src="images/taguette-cloud-00.png" style="float:right;width:180px;height:180px;">
+<img src="images/taguette-cloud-00.png" style="float:right;width:220px;">
 
 # Analysis with Word Clouds
 
