@@ -28,8 +28,6 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 6. Select the tag column and click edit on your computer bar and copy in the drop down
 
-**Word Art
-
 7. Next, if you haven’t done so already, create a free  Word art account at https://wordart.com/  in a new tab.
 
 8. Once, you have logged into your Word Art account, select green **Create Now**
