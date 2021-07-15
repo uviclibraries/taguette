@@ -71,14 +71,12 @@ Note * if you do not like the layout, reclick visualize and it will switch it up
 23. Next, create a new word art (redo steps 7-14)
 
 24. **Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
-
 ![Export this view](/images/taguette-cloud-10.png)
 
 25. **Downloading/Saving**:  In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
 ![Export this view](/images/taguette-cloud-11.png)
 
 26. Save as “name your file” and save
-
 
 You should now have some visualizations that will hopefully be useful to include with the qualitative data that you have created in Taguette.  Great job!
 
