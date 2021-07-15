@@ -43,7 +43,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 12. Click on **import** words
 
-13. To generate, click **visualize**
+13. To generate, click **visualize**<br>
 ![Export this view](/images/taguette-cloud-06.png)
 
 14. Under the words tab in the right, click **options** and change the repeat to **none**
