@@ -58,7 +58,7 @@ Note * if you do not like the layout, reclick visualize and it will switch it up
 
 18. **Pivot tables and Word Clouds**: Next, return to Excel sheet and select the content column
 
-19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.<br.
+19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.<br>
 ![Export this view](/images/taguette-cloud-08.png)
 ![Export this view](/images/taguette-cloud-09.png)
 
@@ -70,7 +70,7 @@ Note * if you do not like the layout, reclick visualize and it will switch it up
 
 23. Next, create a new word art (redo steps 7-14)
 
-24.**Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
+24. **Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
 
 ![Export this view](/images/taguette-cloud-10.png)
 
