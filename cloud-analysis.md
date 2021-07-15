@@ -58,8 +58,8 @@ Note * if you do not like the layout, reclick visualize and it will switch it up
 
 18. **Pivot tables and Word Clouds**: Next, return to Excel sheet and select the content column
 
-19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.
-![Export this view](/images/taguette-cloud-08.png)<br>
+19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.<br.
+![Export this view](/images/taguette-cloud-08.png)
 ![Export this view](/images/taguette-cloud-09.png)
 
 20. Under the pivot table fields on the right, click the **content checkbox**
