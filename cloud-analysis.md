@@ -26,83 +26,65 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 5. Open up the Excel file from downloads
 
-Select the tag column and click edit on your computer bar and copy in the drop down
+6. Select the tag column and click edit on your computer bar and copy in the drop down
 
-Word Art
+**Word Art
 
+7. Next, if you haven’t done so already, create a free  Word art account at https://wordart.com/  in a new tab.
 
+8. Once, you have logged into your Word Art account, select green **Create Now**
+![Export this view](/images/taguette-cloud-03.png)
 
-Next, if you haven’t done so already, create a free  Word art account at https://wordart.com/  in a new tab.
+9. Next, select the red **Create** button on the left side
+![Export this view](/images/taguette-cloud-04.png)
 
-Once, you have logged into your Word Art account, select green Create Now
+10. Now, you can select the **Import** button on the left side
+![Export this view](/images/taguette-cloud-05.png)
 
-Next, select the red Create button on the left side
+11. Inside the import box (insert text here) click there and select **edit** on your computer bar and **paste** in the drop down
 
+12. Click on **import** words
 
-Now, you can select the Import button on the left side
+13. To generate, click **visualize**
+![Export this view](/images/taguette-cloud-06.png)
 
+14. Under the words tab in the right, click **options** and change the repeat to **none**
+![Export this view](/images/taguette-cloud-07.png)
 
-Inside the import box (insert text here) click there and select edit on your computer bar and paste in the drop down
+15. Reclick visualize and it will refresh the word art
 
-Click on import words
+16. Under the left side bar, click on **fonts** and select your desired font.
 
-
-To generate, click visualize
-
-Under the words tab in the right, click options and change the repeat to none
-
-Reclick visualize and it will refresh the word art
-
-Under the left side bar, click on fonts and select your desired font.
-
-Reclick visualize and it will refresh the word art
+17. Reclick visualize and it will refresh the word art
 Note * if you do not like the layout, reclick visualize and it will switch it up
 
+**Pivot tables and Word Clouds**
 
-Pivot tables and Word Clouds
+18. Next, return to Excel sheet and select the content column
 
+19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.
+![Export this view](/images/taguette-cloud-08.png)
+![Export this view](/images/taguette-cloud-09.png)
 
-Next, return to Excel sheet and select the content column
+20. Under the pivot table fields on the right, click the **content checkbox**
 
-Select the insert button and select pivot table and with the default settings select ok.
+21. Drag the **content checkbox** to **rows**
 
+22. Select the **content** and on the computer bar, select **edit** and **copy** in the dropdown
 
+23. Next, create a new word art (redo steps 7-14)
 
-Under the pivot table fields on the right, click the content checkbox
+**Adding Shapes**
 
-Drag the content checkbox to rows
+![Export this view](/images/taguette-cloud-10.png)
 
-Select the content and on the computer bar, select edit and copy in the dropdown
+24. Select **shapes** in the left side, click on the shape of your choice and then select visualize
 
-Next, create a new word art (redo steps 7-14)
+**Downloading/Saving**
+24. In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
+![Export this view](/images/taguette-cloud-11.png)
 
-Adding Shapes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Select shapes in the left side, click on the shape of your choice and then select visualize
-
-Downloading/Saving
-
-
-In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
-
-
-
-
-Save as “name your file” and save
-
+25. Save as “name your file” and save
 
 
 You should now have some visualizations that will hopefully be useful to include with the qualitative data that you have created in Taguette.  Great job!
