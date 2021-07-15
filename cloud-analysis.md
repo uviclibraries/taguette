@@ -56,12 +56,10 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 17. Reclick visualize and it will refresh the word art
 Note * if you do not like the layout, reclick visualize and it will switch it up
 
-**Pivot tables and Word Clouds**
-
-18. Next, return to Excel sheet and select the content column
+18. **Pivot tables and Word Clouds**: Next, return to Excel sheet and select the content column
 
 19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.
-![Export this view](/images/taguette-cloud-08.png)
+![Export this view](/images/taguette-cloud-08.png)<br>
 ![Export this view](/images/taguette-cloud-09.png)
 
 20. Under the pivot table fields on the right, click the **content checkbox**
@@ -72,17 +70,14 @@ Note * if you do not like the layout, reclick visualize and it will switch it up
 
 23. Next, create a new word art (redo steps 7-14)
 
-**Adding Shapes**
+24.**Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
 
 ![Export this view](/images/taguette-cloud-10.png)
 
-24. Select **shapes** in the left side, click on the shape of your choice and then select visualize
-
-**Downloading/Saving**
-24. In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
+25. **Downloading/Saving**:  In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
 ![Export this view](/images/taguette-cloud-11.png)
 
-25. Save as “name your file” and save
+26. Save as “name your file” and save
 
 
 You should now have some visualizations that will hopefully be useful to include with the qualitative data that you have created in Taguette.  Great job!
