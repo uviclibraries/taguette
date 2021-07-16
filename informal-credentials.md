@@ -11,8 +11,18 @@ DSC electronic badges are cryptographically signed and have the recipients email
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities.
 
-### Earn an Informal Credential for Taguette
+### Earn an Informal Credential or Badge for Taguette
 
-- Criteria for the Taguette Badge here...
+If you’d like to earn a DSC badge for this porkshop, please email the following screenshots to: dscommons@uvic.ca 
+1. Coding list (see example below)
+2. Intermedia Analysis of Taguette Excel spreadsheet
+3. Word cloud image
+
+** Code list example**
+![Name your project](/images/taguette-code-list.gif)
+
+### Learn how you can share your DSC Badge
+
+Learn more about how DSC badges and [how you can share your DSC badges on LinkedIn](https://onlineacademiccommunity.uvic.ca/dsc/badges/).
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
