@@ -20,7 +20,7 @@ If you’d like to earn a DSC badge for this porkshop, please email the followin
 
 **Code list example**
 
-![Code list example](/images/taguette-code-list.gif)
+![Code list example](/images/taguette-code-list.png)
 
 ### Learn how you can share your DSC Badge
 
