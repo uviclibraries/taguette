@@ -14,13 +14,13 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 ### Earn an Informal Credential or Badge for Taguette
 
 If you’d like to earn a DSC badge for this porkshop, please email the following screenshots to: dscommons@uvic.ca 
-1. Coding list (see example below)
+1. Code list (see example below)
 2. Intermedia Analysis of Taguette Excel spreadsheet
 3. Word cloud image
 
 ** Code list example **
 
-![Name your project](/images/taguette-code-list.gif)
+![Code list example](/images/taguette-code-list.gif)
 
 ### Learn how you can share your DSC Badge
 
