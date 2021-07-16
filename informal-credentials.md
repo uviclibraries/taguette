@@ -18,7 +18,7 @@ If you’d like to earn a DSC badge for this porkshop, please email the followin
 2. Intermedia Analysis of Taguette Excel spreadsheet
 3. Word cloud image
 
-** Code list example **
+**Code list example**
 
 ![Code list example](/images/taguette-code-list.gif)
 
