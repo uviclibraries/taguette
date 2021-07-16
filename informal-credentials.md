@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Earn a Digital Badge
+title: Earn a Workshop Badge
 nav_order: 9
 ---
 <img src="https://api.badgr.io/public/badges/XX0GwJmHTR2Z68DP8Q4HVw/image" style="float:right;width:180px;">
