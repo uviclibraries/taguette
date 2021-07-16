@@ -3,6 +3,8 @@ layout: default
 title: Informal Credentials
 nav_order: 9
 ---
+<img src="https://api.badgr.io/public/badges/XX0GwJmHTR2Z68DP8Q4HVw/image" style="float:right;width:180px;">
+
 ## Informal Credentials
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed qualitative coding skills using Taguette. 
@@ -23,7 +25,6 @@ If you’d like to earn a DSC badge for this porkshop, please email the followin
 ![Code list example](/images/taguette-code-list.png)
 
 ### Learn how you can share your DSC Badge
-
-Learn more about how DSC badges and [how you can share your DSC badges on LinkedIn](https://onlineacademiccommunity.uvic.ca/dsc/badges/).
+To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/).
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
