@@ -7,7 +7,7 @@ nav_order: 10
 
 ## Resources
 
-- [Getting Started with Taguette](https://www.taguette.org/getting-started.html){:target="_blank"}.
+- [Getting Started with Taguette](https://www.taguette.org/getting-started.html){:target="_blank"} - The official Taguette.org _Getting Started_ guide.
 - [Taguette Git repository](https://gitlab.com/remram44/taguette){:target="_blank"} - for submitting feature suggestions & bug reports.
 - [Free Qualitative Data Analysis with Taguette and qcoder!](https://www.youtube.com/watch?v=OIB_xLlM8Fw){:target="_blank"} an IASSIST webinar video (55 min)
 
