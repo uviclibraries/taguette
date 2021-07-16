@@ -11,7 +11,7 @@ The Digital Scholarship Commons (DSC) awards digital badges, or informal credent
 
 DSC electronic badges are cryptographically signed and have the recipients email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a link to the learning objectives for the workshop so that employers or anyone who sees the badge can determine what was done to earn the badge. 
 
-DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities.
+DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges).
 
 ### Earn an Informal Credential or Badge for Taguette
 
