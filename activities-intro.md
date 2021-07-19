@@ -11,6 +11,6 @@ parent: Workshop Activities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [**Install Taguette on your Computer**](https://gitlab.com/remram44/taguette/-/tags){:target="_blank"} (external link).
+- OPTIONAL: [**Install Taguette on your Computer**](https://gitlab.com/remram44/taguette/-/tags){:target="_blank"} (external link). For this workshop we recommend that you use the online version of Taguette, however in the future if you need to code any text with personaly identifiable informaion, you will probably need to install Taguette on your computer.
 
 [NEXT STEP: Create a Taguette Account](create-account.html){: .btn .btn-blue }
