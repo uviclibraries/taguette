@@ -14,7 +14,7 @@ nav_order: 10
 
 ## Acknowledgements
 
-- [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekkyl template for GitHub Pages.
+- [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 - [Sharon Dias](https://ca.linkedin.com/in/sharonddias){:target="_blank"} - created the core of the Taguette workshop, including the introductory presentation.
 - [Rich McCue](https://richmccue.com/){:target="_blank"} - extended the workshop to include analysis with Excel Pivot Tables, and Word Clouds.
 
