@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Word Cloud Analysis
+title: Word Cloud Visualization
 nav_order: 7
 parent: Workshop Activities
 ---
 <img src="images/taguette-cloud-00.png" style="float:right;width:240px;">
 
-# Analysis with Word Clouds
+# Visualization with Word Clouds
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 

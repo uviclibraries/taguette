@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre-Workshp Activities
+title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities

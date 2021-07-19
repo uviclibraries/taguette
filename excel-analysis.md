@@ -49,5 +49,5 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 You should now have some summary quantitative data that will hopefully be useful to include with the qualitative data that you created in Taguette. Great job!
 
-[NEXT STEP: Analysis with Word Clouds](cloud-analysis.html){: .btn .btn-blue }
+[NEXT STEP: Visualization with Word Clouds](cloud-analysis.html){: .btn .btn-blue }
 
