@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Word Cloud Visualization
+title: 6 - Word Cloud Visualization
 nav_order: 7
 parent: Workshop Activities
 ---
