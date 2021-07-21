@@ -5,14 +5,17 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Resources
+## Qualitative Coding Resources
 
 - [An Introduction to Codes and Coding](https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf) (pdf)
 - [Research Methods in Phychology - Qualitative Research](https://opentextbc.ca/researchmethods/chapter/qualitative-research/) - An Open Textbook chapter.
+- [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o){:target="_blank"} (9 min)
+
+## Taguette Resources
+
 - [Getting Started with Taguette](https://www.taguette.org/getting-started.html){:target="_blank"} - the official Taguette.org _Getting Started_ guide.
 - [Taguette Git repository](https://gitlab.com/remram44/taguette){:target="_blank"} - for submitting feature suggestions & bug reports.
 - [Free Qualitative Data Analysis with Taguette and qcoder!](https://www.youtube.com/watch?v=OIB_xLlM8Fw){:target="_blank"} an IASSIST webinar video (55 min)
-- [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o){:target="_blank"} (9 min)
 
 ## Acknowledgements
 
