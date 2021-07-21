@@ -12,7 +12,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=k4P-VNo7ozU){:target="_blank"} as a suplement to the steps below.
 
-1. Create a free account at the [**Word Art**](https://wordart.com/) website. 
+1. Create a free account at the [**Word Art**](https://wordart.com/){:target="_blank"} website. 
 
 2. Log in to Taguette where you see your documents and select the **highlights tab**.
 
@@ -28,7 +28,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 6. Select the tag column and click edit on your computer bar and copy in the drop down
 
-7. Next, if you haven’t done so already, create a free  Word art account at https://wordart.com/{:target="_blank"} in a new tab.
+7. Next, if you haven’t done so already, create a free  Word art account at [Word Art Website](https://wordart.com/){:target="_blank"} in a new tab.
 
 8. Once, you have logged into your Word Art account, select green **Create Now**
 ![Export this view](/images/taguette-cloud-03.png)
