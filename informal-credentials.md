@@ -17,7 +17,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 If you’d like to earn a DSC badge for this porkshop, please email the following screenshots to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Code list (see example below)
-2. Intermedia Analysis of Taguette Excel spreadsheet
+2. Intermediate Analysis of Taguette Excel spreadsheet
 3. Word cloud image
 
 **Code list example**
