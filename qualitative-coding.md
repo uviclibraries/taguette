@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qualitative Coding
+title: 3 - Qualitative Coding
 nav_order: 4
 parent: Workshop Activities
 ---
