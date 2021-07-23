@@ -12,4 +12,4 @@ We acknowledge and respect the lək̓ʷəŋən peoples on whose traditional terr
 
 Visit [native-land.ca](https://native-land.ca/) to explore the indigenous territories, languages, and treaties in your area.
 
-<iframe src="https://richmccue.github.io/" style="width:100%; border:none;"></iframe>
+<iframe src="https://richmccue.github.io/" style="width:100%; height:1000px; border:none;"></iframe>
