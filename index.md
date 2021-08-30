@@ -27,10 +27,10 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
+- Identify the differences between manual coding and coding with qualitative coding software
+- Use Taguette on either their personal computer or on a cloud-based server
+- Code at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
+- Will have research materials with codes and have exported them
+- Created a basic analysis of coded data in Excel
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
