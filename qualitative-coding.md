@@ -13,7 +13,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 1. If you haven’t done so already, log into **[Taguette website](https://www.taguette.org){:target="_blank"}**, and click on **Create a project**. 
 ![Create a New project](/images/taguette-coding-2.png)
 
-2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.
+2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
 ![Name your project](/images/taguette-coding-3.gif)
 
 3. **Upload Documents to Taguette**: Next, either download this zip file of [3 sample documents](https://web.uvic.ca/~rmccue/taguette-docs.zip) (you’ll need to unzip the downloaded file), or locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
@@ -39,7 +39,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 10. Once you have your research files and your codes, **click on the documents tab**, and you will be able to see the content of your document.
 
-11. Now, you can keep moving forward by highlighting more passages on your text related to your themes/codes by selecting the passages you want and left-clicking on them, as you do it, a pop-up showing [NEW HIGHLIGHT] will appear, you can click on tag and select one of the tags you want to attach the passage you just selected.
+11. Now, you can keep moving forward by highlighting more passages on your text related to your themes/codes by selecting the passages you want and left-clicking on them, as you do it, a pop-up showing [NEW HIGHLIGHT] will appear, you can click on tag and select one of the tags you want to attach the passage you just selected.<br>
 ![Create a new tag while tagging a passage](/images/taguette-coding-10.gif)
 
 12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, click on the left column of your Taguette interface
