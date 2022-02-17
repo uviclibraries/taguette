@@ -19,7 +19,8 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
   - Look to the top right of the screen and click on the **Export this view** drop-down, and then select the export **EXCEL** format.
 ![Export this view](/images/taguette-excel-2.png)
 
-4. **Pivot Table to Count Tags**: This will give you a high level summary of the number of times you use codes or tags across all the documents in your research project. Open up the Excel file you just downloaded to your computer.
+4. **Pivot Table to Count Tags**: This will give you a high level summary of the number of times you use codes or tags across all the documents in your research project. 
+  - **Open up the Excel file** you just downloaded to your computer.
 
 5. Select the **document**, **tag**, and **content** columns and highlight all the data.
 ![Highlight all the data](/images/taguette-excel-3.png)
