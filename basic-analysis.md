@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4 - Basic Analysis
+title: 3 - Basic Analysis
 nav_order: 5
 parent: Workshop Activities
 ---
