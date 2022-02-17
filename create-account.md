@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Create an Account
+title: 1 - Create an Account
 nav_order: 3
 parent: Workshop Activities
 ---
