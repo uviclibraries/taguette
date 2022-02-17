@@ -46,7 +46,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 11. Now, you can keep moving forward by highlighting more passages on your text related to your themes/codes by selecting the passages you want and clicking on the **[NEW HIGHLIGHT]** pop-up, and then select one or more of the tags you want to code the passage with.<br>
 ![Create a new tag while tagging a passage](/images/taguette-coding-10.gif)
 
-12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see a list of all the the passages your have tagged or coded, click on the **Hightlights** tab on the left navigation bar, and then click on **See all highlights**.
+12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see a list of all the the passages your have tagged (or coded), click on the **Hightlights** tab on the left navigation bar, and then click on **See all highlights**.
 ![See a list of passages for individual tags](/images/taguette-coding-10.png)
 
 [NEXT STEP: Basic Analysis with Taguette](basic-analysis.html){: .btn .btn-blue }
