@@ -39,10 +39,10 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 10. Next, click on the **insert** tab and select **pivot table**. (Use the default settings and click ok).
 ![Create a pivot table](/images/taguette-excel-5.png)
 
-11. Under the pivot table fields (on the right hand side),  select the **document** and **tag** checkboxes.
+11. Under the pivot table fields (on the right hand side), click on the **document** and **tag** checkboxes.
 ![Select documents & tag](/images/taguette-excel-7.png)
 
-12. Drag the **document checkbox** to the **Rows area** (this shows how many tags are in each document).
+12. Drag the **document checkbox** to the **Rows area** (this shows how many tags are in each document). You may have to reorder **documents** and **tags** in the **Rows** box to make your results match what is in the image below.
 ![Drag document to Rows area](/images/taguette-excel-8.png)
 
 13. In the **Rows area**, **drag the tag label below the document label**.
