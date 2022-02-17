@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. Click on the following link: **[Taguette website](https://www.taguette.org){:target="_blank"}**
+1. Click on the following link to create an free Taguette account: **[Taguette website](https://www.taguette.org){:target="_blank"}**
 ![Taguette registration process](/images/taguette-account-5.gif)
 
 2. Next click on the **Try out Taguette on our server** button.
