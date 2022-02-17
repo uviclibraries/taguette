@@ -28,7 +28,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 6. Next, click on the **insert tab** and select **pivot table**. You can use the default settings, so just click **OK**.
 ![Create a pivot table](/images/taguette-excel-5.png)
 
-7. Under the pivot table fields (on the right hand side), click on the **tag checkbox** and then **selectd and drag the tag** to the **values** area below.
+7. Under the pivot table fields (on the right hand side), click on the **tag checkbox** and then select and drag the **tag checkbox** to the **values** area below.
 ![Edit first pivot table](/images/taguette-excel-6.png)
 
 8. **Pivot Table to Count Tags in Each Document**: This will give you a summary of the number of times you use codes or tags in each of the documents in your research project. Select the original sheet (probably called "highlights") on the bottom of the excel spreadsheet.
