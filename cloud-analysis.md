@@ -56,7 +56,9 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 17. Reclick **visualize** and it will refresh the word art
 Note * if you do not like the layout, reclick visualize and it will switch it up
 
-18. **Pivot tables and Word Clouds**: Next, return to Excel sheet and select the **content** column
+**Pivot tables to Visualize all coded text (not just code names):
+
+18. Next, return to Excel sheet and select the **content** column
 
 19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.<br>
 ![Export this view](/images/taguette-cloud-12.png)
