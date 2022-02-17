@@ -10,13 +10,13 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=GvqVeZPoEvs){:target="_blank"} as a suplement to the steps below.
 
-1. Log in to Taguette where you see your documents and select the **highlights** tab.
+1. Log in to Taguette where you see your documents and select the **Highlights** tab.
 2. Next click on the **See all highlight**s button to view summaries of all of the passages that you coded.
 ![See all highlights](/images/taguette-excel-1.png)
 
 3. **Exporting your Passages in Preparation for Writing Up Your Research**: Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
-  - Click on the Highlights tab, and then the See all highlights button.
-  - Look to the right of the screen and click on the Export this view button, and then select the export format to EXCEL.
+  - Click on the **Highlights** tab, and then the **See all highlights** button.
+  - Look to the top right of the screen and click on the **Export this view** drop-down, and then select the export **EXCEL** format.
 ![Export this view](/images/taguette-excel-2.png)
 
 4. **Pivot Table to Count Tags**: This will give you a high level summary of the number of times you use codes or tags across all the documents in your research project. Open up the Excel file you just downloaded to your computer.
