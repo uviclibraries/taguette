@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. Next click on the **Try out Taguette on our server** button.
+1. Register for a free Taguette account. Start by clicking on the **Try out Taguette on our server** button.
 ![Click on the Try it out Taguette on our server button](/images/taguette-account-1.png)
 
 2. Next you will see an introductory page welcoming you to Taguette. At the bottom of the page click on the **Register Now** button.
