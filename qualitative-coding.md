@@ -41,7 +41,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 9. If it would be useful for your research project to create sub-tags you simply add a “dot” to the end of your main tag, and then the sub tag after the dot. For example if my main tag is “**british**”, and I’d like to add the sub-tag of “**humour**”, I’d create a new tag called “**british.humour**”. If I wanted another sub tag, I could create another called "**british.soccer**".
 ![Name your project](/images/taguette-coding-9.png)
 
-10. Once you have your research files and your codes, **click on the documents tab**, and you will be able to see the content of your document.
+10. Once you have your research files and your codes, click on the **documents tab** in the left navigation bar, and you will be able to see the content of your documents by clicking on the specific document you'd like to look at.
 
 11. Now, you can keep moving forward by highlighting more passages on your text related to your themes/codes by selecting the passages you want and left-clicking on them, as you do it, a pop-up showing [NEW HIGHLIGHT] will appear, you can click on tag and select one of the tags you want to attach the passage you just selected.<br>
 ![Create a new tag while tagging a passage](/images/taguette-coding-10.gif)
