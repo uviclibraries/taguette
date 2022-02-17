@@ -35,7 +35,7 @@ If you have any questions or get stuck as you work through this in-class exercis
   - You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
 ![Create a new tag and name it](/images/taguette-coding-6.gif)
 
-8. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, **click on the left column of your Taguett interface**.<br>
+8. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, click on the **Highlights** tab on left column of your Taguett interface.<br>
 ![Name your project](/images/taguette-coding-8.png)
 
 9. If it would be useful for your research project to create sub-tags you simply add a “dot” to the end of your main tag, and then the sub tag after the dot. For example if my main tag is “**british**”, and I’d like to add the sub-tag of “**humour**”, I’d create a new tag called “**british.humour**”.
