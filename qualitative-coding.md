@@ -31,7 +31,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Name your project](/images/taguette-coding-5.png)
 
 7. Next, click on **Create a tag** and then name your new Tag (which is what Taguette calls codes). 
-  - Click the ckeckbox beside the tag you just created.
+  - Click the **ckeckbox** beside the tag you just created. Click on the **Save & Close** button.
   - You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
 ![Create a new tag and name it](/images/taguette-coding-6.gif)
 
