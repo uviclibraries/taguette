@@ -30,7 +30,9 @@ If you have any questions or get stuck as you work through this in-class exercis
 6. When reading through the documents you are coding in Taguette, start coding your document by selecting a passage and clicking on **NEW HIGHLIGHT**
 ![Name your project](/images/taguette-coding-5.png)
 
-7. Next, click on **Create a tag** and then name your new Tag (which is what Taguette calls codes). You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
+7. Next, click on **Create a tag** and then name your new Tag (which is what Taguette calls codes). 
+  - Click the ckeckbox beside the tag you just created.
+  - You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
 ![Create a new tag and name it](/images/taguette-coding-6.gif)
 
 8. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list, **click on the left column of your Taguett interface**.<br>
