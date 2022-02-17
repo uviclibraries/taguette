@@ -16,7 +16,9 @@ If you have any questions or get stuck as you work through this in-class exercis
 2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
 ![Name your project](/images/taguette-coding-3.gif)
 
-3. **Upload Documents to Taguette**: Next, either download this zip file of [3 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file), or locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
+3. **Upload Documents to Taguette** - Next, do one of the following:
+  - Download this zip file of [3 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file) -OR- 
+  - Locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
 ![Name your project](/images/taguette-coding-4.png)
 
 4. Upload your documents by clicking on Add a document in the left of the app or webpage. NOTE: you have to add each document individually, and give each one a unique name.
