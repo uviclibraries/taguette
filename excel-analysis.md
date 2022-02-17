@@ -22,10 +22,10 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 4. **Pivot Table to Count Tags**: This will give you a high level summary of the number of times you use codes or tags across all the documents in your research project. 
   - **Open up the Excel file** you just downloaded to your computer.
 
-5. Select the **document**, **tag**, and **content** columns and highlight all the data.
+5. Select the **document**, **tag**, and **content** columns including all the data.
 ![Highlight all the data](/images/taguette-excel-3.png)
 
-6. Next, click on the **insert tab** and select **pivot table**. (Use the default settings and click ok).
+6. Next, click on the **insert tab** and select **pivot table**. You can use the default settings, so just click **OK**.
 ![Create a pivot table](/images/taguette-excel-5.png)
 
 7. Under the pivot table fields (on the right hand side), select the **tag checkbox** and **drag the tag checkbox to the values area**.
