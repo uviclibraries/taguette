@@ -7,6 +7,7 @@ nav_order: 10
 
 ## Qualitative Coding Resources
 
+- [Using free Generative AI tools for interview transcription](https://lib.uvic.ca/transcription){:target="_blank"} (DSC workshop)
 - [An Introduction to Codes and Coding](https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf){:target="_blank"} (pdf)
 - [An Introduction to Codes and Coding from SFU](https://www.sfu.ca/~palys/Saldana-CodingManualForQualResearch-IntroToCodes&Coding.pdf){:target="_blank"} (10 min).
 - [Research Methods in Phychology - Qualitative Research](https://opentextbc.ca/researchmethods/chapter/qualitative-research/){:target="_blank"} - An Open Textbook chapter.
