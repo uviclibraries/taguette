@@ -66,7 +66,7 @@ Note * if you do not like the layout, reclick Generate and it will switch it up
 
 22. Select the **content** and on the computer bar, select **edit** and **copy** in the dropdown
 
-23. Next, create a new word art (redo steps 7-14)
+23. Next, create a new word art (redo steps 7-14 from the previous section)
 
 24. **Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
 ![Export this view](/images/taguette-cloud-10.png)
