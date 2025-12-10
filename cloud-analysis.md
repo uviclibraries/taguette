@@ -30,8 +30,8 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 7. Next, if you haven’t done so already, create a free  Word art account at [Word Art Website](https://wordart.com/){:target="_blank"} in a new tab.
 
-8. Once, you have logged into your Word Art account, select green **Create Now**
-![Export this view](/images/taguette-cloud-03.png)
+8. Once, you have logged into your Word Art account, click on **Dashboard**
+![Export this view](/images/WordArtDashboard.png)
 
 9. Next, select the red **Create** button on the left side
 ![Export this view](/images/taguette-cloud-04.png)
