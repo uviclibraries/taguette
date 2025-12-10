@@ -22,11 +22,11 @@ If you have any questions or get stuck as you work through this in-class exercis
   </div>
 
 3. **Upload Documents to Taguette** - Next, do one of the following:
-  - Download this zip file of [3 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file) -OR- 
-  - Locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt**, **.md**, or **.html**
+  - Download this zip file of [2 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file) -OR- 
+  - Locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt** (Open Document), **.md**, or **.html**
 ![Name your project](/images/taguette-coding-4.png)
 
-4. Upload your documents by clicking on Add a document in the left of the app or webpage. NOTE: you have to add each document individually, and give each document a unique name.
+4. To upload  documents, click on **Add a document** on the left side of the app or webpage. **NOTE:** You must add each document individually and give it a unique name.
 - As you add documents they will show up in the Documents tab in Taguette.
 
 <button onclick="toggle('gif2')">Show / Hide Animation</button>
@@ -40,7 +40,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Name your project](/images/taguette-coding-5.png)
 
 7. Next, click on **Create a tag** and then name your new Tag (which is what Taguette calls codes). 
-  - Click the **ckeckbox** beside the tag you just created. Click on the **Save & Close** button.
+  - Click the **checkbox** beside the tag you just created. Click on the **Save & Close** button.
   - You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
 
   <button onclick="toggle('gif3')">Show / Hide Animation</button>
