@@ -33,28 +33,25 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 8. Once, you have logged into your Word Art account, click on **Dashboard**
 ![Export this view](/images/WordArtDashboard.png)
 
-9. Next, select the red **Create** button on the left side
-![Export this view](/images/taguette-cloud-04.png)
+9. Next, select the **Create** button on the left side
 
-10. Now, you can select the **Import** button on the left side
+10. Now, you can select the **Import** button 
 ![Export this view](/images/taguette-cloud-05.png)
 
-11. Inside the **import box** (insert text here) click there and select **edit** on your computer bar and **paste** in the drop down
+11. In the Import dialog box, paste your Excel data (words and counts, without headers) into the text field using the paste shortcut (Ctrl + V or{Cmd + V). Check the "CSV format" checkbox. 
 
-12. Click on **import** words
+12. Click on **Import Words** 
 
-13. To generate, click **visualize**<br>
-![Export this view](/images/taguette-cloud-06.png)
+13. The word art may generate automatically. If it does not, click the red **Generate** button to see your imported words in the selected shape and layout.
 
-14. Under the words tab in the right, click **options** and change the repeat to **none**
-![Export this view](/images/taguette-cloud-07.png)
+14. Under the **Words** tab, locate the **“Columns” button** (usually near the top of the word list). Click it and ensure the **Repeat** column is checked to make it visible. Then, in the word list, review the Repeat column and uncheck the box next to each word to ensure every word appears only once in your design.
 
-15. Reclick **visualize** and it will refresh the word art
+15. Reclick **Generate** and it will refresh the word art
 
 16. Under the left side bar, click on **fonts** and select your desired font.
 
-17. Reclick **visualize** and it will refresh the word art
-Note * if you do not like the layout, reclick visualize and it will switch it up
+17. Reclick **Generate** and it will refresh the word art
+Note * if you do not like the layout, reclick Generate and it will switch it up
 
 **Pivot tables to Visualize all coded text (not just code names):
 
