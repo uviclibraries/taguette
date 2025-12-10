@@ -22,8 +22,8 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Exported Highlghts in Word](/images/taguette-basic-3.png)
 
 5. Exporting individual Codes & Passages - Very similar to exporting all your codes, except that you first select the individual code that you would like to export.
-  - Click on the Highlights tab, and then select the tag you would like to export.
-  - Look to the right of the screen and click on the Export this view button, and then select the export format of your choice. Many people select the DOCX format at this point.
+  - Click on the **Highlights** tab, and then select the tag you would like to export.
+  - Look to the right of the screen and click on the **Export** this view button, and then select the export format of your choice. Many people select the DOCX format at this point.
 ![Export this view](/images/taguette-basic-4.png)
 
 6. Great job! You’ve exported coded passages in a format that you can use to further analyse and synthesize into your research project
