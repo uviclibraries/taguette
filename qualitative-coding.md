@@ -29,10 +29,10 @@ If you have any questions or get stuck as you work through this in-class exercis
 4. To upload  documents, click on **Add a document** on the left side of the app or webpage. **NOTE:** You must add each document individually and give it a unique name.
 - As you add documents they will show up in the Documents tab in Taguette.
 
-<button onclick="toggle('gif2')">Show / Hide Animation</button>
-  <div id="gif2">
-  <img src="images/taguette-coding-4.gif">
-  </div>
+    <button onclick="toggle('gif2')">Show / Hide Animation</button>
+      <div id="gif2">
+      <img src="images/taguette-coding-4.gif">
+      </div>
 
 5. **Code Your Documents with Tags**: Read through your research materials and **find potential themes**. For example, you may notice the word *health* a lot in your text, or maybe you will see the speaker talk a lot about *education*, perhaps *poverty* or even *happiness*. So, those could be potential codes you may want to create. Make note of these potential codes in a document or with pen and paper.  If you new to qualitative coding and are still unsure on how to come up with codes, no problem, you can take a few minutes to [watch this video](https://www.youtube.com/watch?v=eT-EDgwRvRU){:target="_blank"}.
 
