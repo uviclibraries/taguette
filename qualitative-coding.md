@@ -65,6 +65,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 
 12. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see a list of all the the passages your have tagged (or coded), click on the **Hightlights** tab on the left navigation bar, and then click on **See all highlights**.
+
 ![See a list of passages for individual tags](/images/taguette-coding-10.png)
 
 <script>  
