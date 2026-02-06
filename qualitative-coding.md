@@ -14,7 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 1. If you haven’t done so already, log into **[Taguette website](https://www.taguette.org){:target="_blank"}**, and click on **Create a project**. 
 ![Create a New project](/images/taguette-coding-2.png)
 
-2. **Name your project** and provide it with a brief description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
+2. **Name your project** and provide a brief project description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
 
 <button onclick="toggle('gif1')">Show / Hide Animation</button>
   <div id="gif1">
@@ -24,7 +24,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 3. **Upload Documents to Taguette** - Next, do one of the following:
   - Download this zip file of [2 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file) -OR- 
   - Locate one or two of your own documents to practice qualitative coding. Document types supported by Taguette include: **.pdf**, **.docx**, **.txt**, **.odt** (Open Document), **.md**, or **.html**
-![Name your project](/images/taguette-coding-4.png)
+![Name your project](/images/taguette-downloadedfiles.png)
 
 4. To upload  documents, click on **Add a document** on the left side of the app or webpage. **NOTE:** You must add each document individually and give it a unique name.
 - As you add documents they will show up in the Documents tab in Taguette.
