@@ -14,7 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 1. If you haven’t done so already, log into **[Taguette website](https://www.taguette.org){:target="_blank"}**, and click on **Create a project**. 
 ![Create a New project](/images/taguette-coding-2.png)
 
-2. **Name your project** and provide a brief project description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
+2. **Name your project** and provide a brief project description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.
 
     <button onclick="toggle('gif1')">Show / Hide Animation</button>
       <div id="gif1">
