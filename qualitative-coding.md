@@ -16,10 +16,10 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 2. **Name your project** and provide a brief project description. Usually it is always good to add some description of your project, what is your goal, the data of data you will be working on, e.g Interviews, news stories, etc.<br>
 
-<button onclick="toggle('gif1')">Show / Hide Animation</button>
-  <div id="gif1">
-  <img src="images/taguette-coding-3.gif">
-  </div>
+  <button onclick="toggle('gif1')">Show / Hide Animation</button>
+    <div id="gif1">
+    <img src="images/taguette-coding-3.gif">
+    </div>
 
 3. **Upload Documents to Taguette** - Next, do one of the following:
   - Download this zip file of [2 sample documents](taguette-docs.zip) (you’ll need to unzip the downloaded file) -OR- 
