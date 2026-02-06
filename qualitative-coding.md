@@ -43,11 +43,10 @@ If you have any questions or get stuck as you work through this in-class exercis
   - Click the **checkbox** beside the tag you just created. Click on the **Save & Close** button.
   - You'll be able to use that tag later to code passages in other parts of the document you are working on as well as in other documents in your project.
 
-  <button onclick="toggle('gif3')">Show / Hide Animation</button>
-  <div id="gif3">
-  <img src="images/taguette-coding-6.gif">
-  </div>
-
+     <button onclick="toggle('gif3')">Show / Hide Animation</button>
+     <div id="gif3">
+         <img src="images/taguette-coding-6.gif">
+     </div>
 
 8. By doing this throughout your data, you will be creating a list of your tags based on the words themes/codes you chose. To see your list of tags (or codes), click on the **Highlights** tab on left column of your Taguett interface.<br>
 ![Name your project](/images/taguette-coding-8.png)
