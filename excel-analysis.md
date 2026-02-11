@@ -10,42 +10,47 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 In addition, if you think you would find it helpful, here is a [step-by-step video tutorial for this activity](https://www.youtube.com/watch?v=GvqVeZPoEvs){:target="_blank"} as a suplement to the steps below.
 
-1. Log in to Taguette where you see your documents and select the **Highlights** tab.
+1. **Log in to Taguette** and open your project so you can see your documents. Then select the **Highlights** tab.
 2. Next click on the **See all highlight**s button to view summaries of all of the passages that you coded.
 ![See all highlights](/images/taguette-excel-1.png)
 
-3. **Exporting your Passages in Preparation for Writing Up Your Research**: Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
-  - Click on the **Highlights** tab, and then the **See all highlights** button.
-  - Look to the top right of the screen and click on the **Export this view** drop-down, and then select the export **EXCEL** format.
+3. **Exporting your Passages in Preparation for Writing Up Your Research**: You can export all of your coded passages to your computer to help with synthesis and writing.
+  - In **Highlights** tab, click **See all highlights**.
+  - In the top right corner of the screen, click the “**Export this view**” dropdown menu.
+  - Select **Excel** format to download your coded passages as a spreadsheet.
 ![Export this view](/images/taguette-excel-2.png)
 
 4. **Pivot Table to Count Tags**: This will give you a high level summary of the number of times you use codes or tags across all the documents in your research project. 
   - **Open up the Excel file** you just downloaded to your computer.
 
-5. Select the **document**, **tag**, and **content** columns including all the data.
+5. In the Excel file, select the **document, tag, and content** columns, including all rows of data.
 ![Highlight all the data](/images/taguette-excel-3.png)
 
-6. Next, click on the **insert tab** and select **pivot table**. You can use the default settings, so just click **OK**.
+6. Next, click on the **Insert** tab and select **Pivot Table**. You can use the default settings and click **OK**.
 ![Create a pivot table](/images/taguette-excel-5.png)
 
-7. Under the pivot table fields (on the right hand side), click on the **tag checkbox** and then select and drag the **tag checkbox** to the **values** area below.
+7. In the **PivotTable Fields** panel on the right-hand side:
+  - Check the box next to **tag**.
+  - Then drag **tag** into the **Values** area below.
+  - This will generate a count of how many times each tag was used.
 ![Edit first pivot table](/images/taguette-excel-6.png)
 
-8. **Pivot Table to Count Tags in Each Document**: This will give you a summary of the number of times you use codes or tags in each of the documents in your research project. Select the original sheet (probably called "highlights") on the bottom of the excel spreadsheet.
+8. **Pivot Table to Count Tags in Each Document.** This step will create a summary showing how many times each code or tag appears within each individual document.
+  - Return to the original worksheet (usually called “highlights”) at the bottom of the Excel file.
 
-9. Select the **document**, **tag**, and **content** columns and highlight all the data.
+9. Again, select the **document**, **tag**, and **content** columns, including all data.
 ![Highlight all the data](/images/taguette-excel-3.png)
 
-10. Next, click on the **insert** tab and select **pivot table**. (Use the default settings and click ok).
+10. Click on the **Insert** tab and select **Pivot Table**. Use the default settings and click **OK** to create a new pivot table.
 ![Create a pivot table](/images/taguette-excel-5.png)
 
-11. Under the pivot table fields (on the right hand side), click on the **document** and **tag** checkboxes.
+11. In the PivotTable Fields panel on the right-hand side, check both the **document** and **tag** checkboxes.
 ![Select documents & tag](/images/taguette-excel-7.png)
 
-12. Drag the **document checkbox** to the **Rows area** (this shows how many tags are in each document).
+12. Drag the **document** to the **Rows** area (this will shows how many tags appear in each document).
 ![Drag document to Rows area](/images/taguette-excel-8.png)
 
-13. In the **Rows area**, **drag the tag label below the document label**.
+13. In the **Rows area**, drag the **tag** field so that it appears below the **document** field. (This will display a detailed breakdown of tag counts within each document.)
 ![Drag tab label below document label](/images/taguette-excel-9.png)
 
 You should now have some summary quantitative data that will hopefully be useful to include with the qualitative data that you created in Taguette. Great job!
