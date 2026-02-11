@@ -47,7 +47,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 11. In the PivotTable Fields panel on the right-hand side, check both the **document** and **tag** checkboxes.
 ![Select documents & tag](/images/taguette-excel-7.png)
 
-12. Drag the **document** to the **Rows** area (this will shows how many tags appear in each document).
+12. Drag the **document** to the **Rows** area. (This will shows how many tags appear in each document).
 ![Drag document to Rows area](/images/taguette-excel-8.png)
 
 13. In the **Rows area**, drag the **tag** field so that it appears below the **document** field. (This will display a detailed breakdown of tag counts within each document.)
