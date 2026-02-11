@@ -57,6 +57,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
   - Go to the **Words** tab.
   - Click the **Columns** button (near the top of the word list).
   - Make sure the **Repeat** column is checked so it becomes visible.
+  - In the word list, review the Repeat column and uncheck the box next to each word.
   - This ensures that every word appears only once in your design.
 
 15. Click **Generate** again to refresh the word art with the updated settings.
