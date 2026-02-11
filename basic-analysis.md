@@ -27,7 +27,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Export this view](/images/taguette-basic-4.png)
 
 6. Great job! You’ve exported coded passages in a format that you can use to further analyse and synthesize into your research project
-7. **OPTIONAL**: If  you ‘d like to experiment with analysing your codes on your own in Excel, click on the Project info tab, and then select Export codebook drop down button, and then click on the Excel option. An Excel version of your codebook will be downloaded to your computer for you to analyse.
+7. **OPTIONAL**: If  you‘d like to experiment with analysing your codes on your own in Excel, click on the Project info tab, and then select Export codebook drop down button, and then click on the Excel option. An Excel version of your codebook will be downloaded to your computer for you to analyse.
 ![Export data to Excel](/images/taguette-basic-5.png)
 
 [NEXT STEP: Intermediate Analysis with Excel](excel-analysis.html){: .btn .btn-blue }
