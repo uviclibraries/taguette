@@ -67,7 +67,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 17. Click **Generate** once more to apply your changes. (Tip: If you don’t like the layout or arrangement, simply click Generate again to try a different variation.) 
 
-**Pivot tables to Visualize all coded text (not just tag/code names): this will create a Word Cloud from Full Coded Content**
+**Using Pivot tables to Visualize all coded text (not just tag/code names)** This will create a Word Cloud from Full Coded Content
 
 18. Return to Excel file and select the **Content** column (usually cell D1). 
 
