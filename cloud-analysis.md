@@ -14,7 +14,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 1. Create a free account at the [**Word Art**](https://wordart.com/){:target="_blank"} website. 
 
-   **Note:** If you have just completed “Activity 4 – Excel Activities” in this workshop, you can skip Steps 2 and 3 and proceed directly to Step 4.
+   **Note:** If you have just completed “Activity 4 – Excel Activities” in this workshop, you can skip Steps 2-4 and proceed directly to Step 5.
 
 2. Log in to Taguette where you see your documents and select the **highlights tab**.
 
