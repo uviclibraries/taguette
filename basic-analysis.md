@@ -36,7 +36,7 @@ Tip: If you are using sub-tags, clicking on a main tag will display passages for
 6. **Great job!** You have now exported your coded passages in a format that you can use to further analyze and synthesize for your research project.
 
 7. **OPTIONAL**. If you would like to analyze your codes further in Excel:
-  - •	Click on the **Project Info** tab in Taguette.
+  - Click on the **Project Info** tab in Taguette.
   - Select the **Export Codebook** dropdown button.
   - Choose the **Excel** option.
   - An Excel file containing all of your tags will be downloaded to your computer for further analysis.
