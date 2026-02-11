@@ -53,7 +53,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 13. The word art may generate automatically. (If it does not appear right away, click the red **Generate** button to create the word cloud using your imported words.)
 
-14. 14.	To make sure each word only appears once: 
+14. To make sure each word only appears once: 
   - Go to the **Words** tab.
   - Click the **Columns** button (near the top of the word list).
   - Make sure the **Repeat** column is checked so it becomes visible.
