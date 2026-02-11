@@ -14,11 +14,11 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 1. Create a free account at the [**Word Art**](https://wordart.com/){:target="_blank"} website. 
 
-   **Note:** If you have just completed “Activity 4 – Excel Activities” in this workshop, you can skip Steps 2-4 and proceed directly to Step 5.
+   **Note:** If you have just completed “**Activity 4 – Excel Activities**” in this workshop, you can skip Steps 2-4 and proceed directly to Step 5.
 
-2. Log in to Taguette where you see your documents and select the **highlights tab**.
+2. **Log in to Taguette** and open your project so you can see your uploaded documents.
 
-3. Next click on the **See all highlights** button to view summaries of all of the passages that you coded.
+3. Select the **Highlights** tab, then click “**See all highlights**” to view a summary of all the passages you have coded.
 ![See all highlights](/images/taguette-cloud-01.png)
 
 4. **Exporting your Passages in Preparation for Writing Up Your Research**: Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
@@ -26,34 +26,45 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 - Look to the right of the screen and click on the **Export this view** button, and then select the export format to **EXCEL**.
 ![Export this view](/images/taguette-cloud-02.png)
 
-5. Open up the Excel file from downloads
+5. **Open up the Excel file** that you downloaded from Taguette. (This file is usually located in your computer’s Downloads folder.)
 
-6. Select the **tag** column and click **edit** on your computer bar and **copy** in the drop down
+6. In the Excel file, locate the **“tag” column.**
+  - Click on the first cell under the header “tag” (for example, cell C1).
+  - Select all the cells in that column that contain tag names.
+  - Then copy the cells, go to **Edit > Copy** (or use **Ctrl + C** (Windows) / **Cmd + C** (Mac)) to copy the selected tags.
 
-7. Next, if you haven’t done so already, create a free  Word art account at [Word Art Website](https://wordart.com/){:target="_blank"} in a new tab.
+7. If you haven’t done so already, create a free account on the [Word Art Website](https://wordart.com/){:target="_blank"} in a new tab. (You only need to do this once. If you already have an account, you can skip this step.)
 
-8. Once, you have logged into your Word Art account, click on **Dashboard**
+8. After logginf into  Word Art, click on **Dashboard.**
 ![Export this view](/images/WordArtDashboard.png)
 
-9. Next, select the **Create** button on the left side
+9. On the Dashboard page, click the **Create**. 
+  - You may see a “**Create with AI**” dialog box. For this activity, please ignore that option and select “**Start from Scratch.**”
 
-10. Now, you can select the **Import** button 
+10. In the editor screen, click the **Import** button. 
 ![Export this view](/images/taguette-cloud-05.png)
 
-11. In the Import dialog box, paste your Excel data (words and counts, without headers) into the text field using the paste shortcut (Ctrl + V or{Cmd + V). Check the "CSV format" checkbox. 
+11. In the Import dialog box, 
+  - **Paste the data you copied from Excel** (the list of tags) into the text field using **Ctrl + V** (Windows) or **Cmd + V** (Mac).
+  - Make sure to paste only the words, **do not include the column headers (‘tag)’.**
+  - Then check the **“CSV format”** checkbox and confirm the import.
 
-12. Click on **Import Words** 
+12. Click on **Import Words** to load the data you pasted.
 
-13. The word art may generate automatically. If it does not, click the red **Generate** button to see your imported words in the selected shape and layout.
+13. The word art may generate automatically. (If it does not appear right away, click the red **Generate** button to create the word cloud using your imported words.)
 
-14. Under the **Words** tab, locate the **“Columns” button** (usually near the top of the word list). Click it and ensure the **Repeat** column is checked to make it visible. Then, in the word list, review the Repeat column and uncheck the box next to each word to ensure every word appears only once in your design.
+14. 14.	To make sure each word only appears once: 
+  - Go to the **Words** tab.
+  - Click the **Columns** button (near the top of the word list).
+  - Make sure the **Repeat** column is checked so it becomes visible.
+  - This ensures that every word appears only once in your design.
 
-15. Reclick **Generate** and it will refresh the word art
+15. Click **Generate** again to refresh the word art with the updated settings.
 
-16. Under the left side bar, click on **fonts** and select your desired font.
+16. To customize the appearance, use the left sidebar:
+  - Click on **Fonts** and select the font style you prefer.
 
-17. Reclick **Generate** and it will refresh the word art
-Note * if you do not like the layout, reclick Generate and it will switch it up
+17. Click **Generate** once more to apply your changes. (Tip: If you don’t like the layout or arrangement, simply click Generate again to try a different variation.) 
 
 **Pivot tables to Visualize all coded text (not just code names):
 
