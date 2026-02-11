@@ -67,28 +67,33 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 17. Click **Generate** once more to apply your changes. (Tip: If you don’t like the layout or arrangement, simply click Generate again to try a different variation.) 
 
-**Pivot tables to Visualize all coded text (not just code names):
+**Pivot tables to Visualize all coded text (not just tag/code names): this will create a Word Cloud from Full Coded Content**
 
-18. Next, return to Excel sheet and select the **content** column
+18. Return to Excel file and select the **Content** column (usually cell D1). 
 
-19. Select the **insert** button and select **pivot table** and with the default settings select **ok**.<br>
+19. Select any cell inside the table, then go to the **Insert** tab in Excel and choose **Pivot Table**.<br>
 ![Export this view](/images/taguette-cloud-12.png)
 
-20. Under the pivot table fields on the right, click the **content checkbox**
+20. In the **Create PivotTable** dialog box, keep the default settings and click **OK** to create a new pivot table.
 
-21. Drag the **content checkbox** to **rows**
+21. In the PivotTable Fields panel on the right:
+  - Check the box next to **Content** to add it to the pivot table.
+  - Then drag **Content** into the **Rows** area so that all coded passages appear in the table.
 
-22. Select the **content** and on the computer bar, select **edit** and **copy** in the dropdown
+22. Click inside the list of content displayed in the pivot table, then select all of the text. Copy the selected text using **Edit > Copy** (or **Ctrl + C** (Windows) / **Cmd + C** (Mac)).
 
-23. Next, create a new word art (redo steps 7-14 from the previous section)
+23. Open the **Word Art website** in a new tab and create a new word art project. Follow **Steps 7–14** from the previous section to start a new design and import text.
 
-24. **Adding Shapes**:  Select **shapes** in the left side, click on the shape of your choice and then select visualize
+24. **Customize the Word Art Design.** To change shape of your word cloud:  
+  - In the left sidebar, click on **Shapes**.
+  - Select the shape you would like to use.
+  - Click the **Generate** button to apply the new shape and refresh the design.
 ![Export this view](/images/taguette-cloud-10.png)
 
-25. **Downloading/Saving**:  In the blue bar of the Word Art window, select download and on the dropdown use standard PNG
+25. **Download and save your Word Art.**  When you are happy with the design, go to the blue menu bar at the top of the Word Art window and click **Download**.
 ![Export this view](/images/taguette-cloud-11.png)
-
-26. Save as “name your file” and **save**
+  - From the dropdown menu, choose Standard PNG as the file format.
+  - Save the file with a clear name (for example: Taguette_WordArt_YourName.png) to your computer.
 
 You should now have some visualizations that will hopefully be useful to include with the qualitative data that you have created in Taguette.  Great job!
 
