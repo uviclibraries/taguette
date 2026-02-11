@@ -8,26 +8,39 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. One of the most basic ways to analyse your data is to start by clicking on the **Highlights** tab and look at the counts for each of the tags that you created.
+This activity focuses on analyzing and exporting your coded data in Taguette. You will learn how to review your coding results, explore passages associated with specific tags (also known as codes), and export your coded material into formats that can be used for further analysis and writing. These tools help you move from initial coding to organizing and synthesizing your findings.
 
-2. Next click on the **See all highlights** button to view summaries of all of the passages that you coded.
+1. One of the simplest ways to begin analyzing your data is to click on the **Highlights** tab and review the counts for each of the tags you created.
+
+2. Click the “**See all highlights**” to view a summary of all the passages you have coded.
 ![See all highlights](/images/taguette-basic-1.png)
 
-3. If you’d like to look at the passages for individual **codes**, simply click on the code on the left, and only the passages related to that code will appear in Taguette on the right. Note that if you have sub-tags, you can select the main tag and all sub tags by clicking on the main tag.
+3. To view passages for a specific tag, click on that tag in the list on the left. Only the passages associated with that tag will be displayed on the right.
+Tip: If you are using sub-tags, clicking on a main tag will display passages for both the main tag and all of its sub-tags.
 
-4. **Exporting your Passages in Preparation for Writing Up Your Research**: Exporting all your Passages with their Codes - You can export all your work back to your computer to facilitate the synthesis and write up of your coded data.
-  -  Click on the **Highlights** tab, and then the **See all highlights** button.
-  - Look to the right of the screen and click on the **Export this view** button, and then select the **export format of your choice**. Many people select the DOCX format at this point.
+4. **Exporting Your Passages to Support Writing and Analysis.** You can export all of your coded passages to your computer to help with reviewing, synthesizing, and writing up your research.
+  - Click on the **Highlights** tab.
+  - Click “**See all highlights**.”
+  - On the right side of the screen, click the “**Export this view**” button
+  - Choose the export format you prefer (for example, **DOCX**).
 ![Export highlghts](/images/taguette-basic-2.png)
 ![Exported Highlghts in Word](/images/taguette-basic-3.png)
 
-5. Exporting individual Codes & Passages - Very similar to exporting all your codes, except that you first select the individual code that you would like to export.
-  - Click on the **Highlights** tab, and then select the tag you would like to export.
-  - Look to the right of the screen and click on the **Export** this view button, and then select the export format of your choice. Many people select the DOCX format at this point.
+5. **Exporting Passages for an Individual Tag**. This process is similar to exporting all passages, but you begin by selecting a specific tag.
+  - Click on the **Highlights** tab.
+  - Select a tag you would like to export from the list on the left.
+  - On the right side of the screen, click **“Export this view.”**
+  - Choose the export format you prefer (for example, **DOCX**).
 ![Export this view](/images/taguette-basic-4.png)
 
-6. Great job! You’ve exported coded passages in a format that you can use to further analyse and synthesize into your research project
-7. **OPTIONAL**: If  you‘d like to experiment with analysing your codes on your own in Excel, click on the Project info tab, and then select Export codebook drop down button, and then click on the Excel option. An Excel version of your codebook will be downloaded to your computer for you to analyse.
+6. **Great job!** You have now exported your coded passages in a format that you can use to further analyze and synthesize for your research project.
+
+7. **OPTIONAL**. If you would like to analyze your codes further in Excel:
+  - •	Click on the **Project Info** tab in Taguette.
+  - Select the **Export Codebook** dropdown button.
+  - Choose the **Excel** option.
+  - An Excel file containing all of your tags will be downloaded to your computer for further analysis.
+
 ![Export data to Excel](/images/taguette-basic-5.png)
 
 [NEXT STEP: Intermediate Analysis with Excel](excel-analysis.html){: .btn .btn-blue }
