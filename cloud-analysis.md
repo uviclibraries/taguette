@@ -46,7 +46,7 @@ In addition, if you think you would find it helpful, here is a [step-by-step vid
 
 11. In the Import dialog box, 
   - **Paste the data you copied from Excel** (the list of tags) into the text field using **Ctrl + V** (Windows) or **Cmd + V** (Mac).
-  - Make sure to paste only the words, **do not include the column headers (‘tag)’.**
+  - Make sure to paste only the words, **do not include the column headers (‘tag').**
   - Then check the **“CSV format”** checkbox and confirm the import.
 
 12. Click on **Import Words** to load the data you pasted.
