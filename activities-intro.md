@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
-nav_order: 2
-parent: Workshop Activities
+title: Self-Directed Introduction
+nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following links:
 
