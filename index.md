@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;">
 
-# Taguette: Qualitative Coding & Analysis Workshop 
+# Qualitative Coding with Taguette
 
 - Pre-workshop activities: 20 min 
 - Introductory presentation: 10 min
